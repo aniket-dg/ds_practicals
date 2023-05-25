@@ -1,0 +1,4 @@
+make
+./server (t1)
+./client  (t2)
+./client (t3)
